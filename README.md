@@ -18,13 +18,13 @@ pkg install python
 
 pkg install git
 
-git clone ( Coming Soon ) 
+git clone  https://github.com/Rihan444/R-Pass
 
-cd 
+cd R-Pass
 
 chmod +x *
 
-python 
+python R-pass.py
 
 Done ✅😃 Thank you 💓
 
